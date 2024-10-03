@@ -23,4 +23,4 @@ jobs:
 
     - name: Ejecutar script de Selenium
       run: |
-        node workflows/busquedaDatacrm.js
+        node .github/workflows/busquedaDatacrm.js
